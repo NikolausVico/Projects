@@ -1,6 +1,6 @@
 
 import java.util.Random;
-public class ComputeMethods {
+public class ComputeMethods5026211107 {
     
     public double fToC(double degreesF) {
 		double degreesC = (degreesF - 32)*(5.0/9.0);
