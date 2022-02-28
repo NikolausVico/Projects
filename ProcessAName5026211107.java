@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class ProcessName {
+public class ProcessAName5026211107 {
     
     
 public static void main(String[] args) {
