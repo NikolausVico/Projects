@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ColorRange {
+public class Section5_Practice1 {
 
     public static void main(String args[]) {
         Scanner input = new Scanner(System.in);
